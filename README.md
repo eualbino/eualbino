@@ -4,7 +4,7 @@
   <a href="https://github.com/eualbino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eualbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eualbino&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div><br>
   
 <div>
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
