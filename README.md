@@ -3,8 +3,6 @@
 
 <div>
   <a href="https://github.com/eualbino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eualbino&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eualbino&layout=compact&theme=tokyonight">
 </div><br>
   
 <div>
