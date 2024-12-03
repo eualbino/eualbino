@@ -9,15 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eualbino&layout=compact&theme=tokyonight">
 </div><br>
   
-<div>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,prisma,git,github,mysql,postgres,postman,vscode,npm)](https://skillicons.dev)
 
 ##
  
