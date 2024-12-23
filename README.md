@@ -9,7 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eualbino&layout=compact&theme=tokyonight">
 </div><br>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,prisma,git,github,mysql,postgres,postman,vscode,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,nextjs,nodejs,express,prisma,postgres,aws)](https://skillicons.dev)
 
 ##
  
